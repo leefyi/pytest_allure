@@ -1,0 +1,7 @@
+{
+  "test/features_test.py::test_case_01": true,
+  "test/pytest_allure_test.py::TestAllure::()::test_case_01": true,
+  "test/pytest_allure_test.py::TestAllure::()::test_str": true,
+  "test/pytest_allure_test.py::test_case_01": true,
+  "test/pytest_allure_test.py::test_str": true
+}

@@ -1,0 +1,7 @@
+[
+  "test/pytest_allure_test.py::TestAllure::()::test_case_01",
+  "test/pytest_allure_test.py::TestAllure::()::test_case_02",
+  "test/pytest_allure_test.py::TestAllure::()::test_case_03",
+  "test/pytest_allure_test.py::TestAllure::()::test_case_04",
+  "test/pytest_allure_test.py::TestAllure::()::test_str"
+]
