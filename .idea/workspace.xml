@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf0ccc0c-6592-46cd-9b26-97b9abb18c2e" name="Default Changelist" comment="" />
+    <list default="true" id="cf0ccc0c-6592-46cd-9b26-97b9abb18c2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/test-cases/6434fbf8169aa686.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/test-cases/6f9895d4c2de6961.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/test-cases/937c0adef1674d2d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/test-cases/efac2d6efa0d6874.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/test-cases/fc845a3dfbca551f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/eb7e2aa8-dcc7-463b-83ae-fd14c9af44bb-testsuite.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,19 +58,20 @@
     <session id="1231499651">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
           <entry key="ipynb" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
+          <entry key="sh" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -32,21 +79,22 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="4" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="1556" />
+          <entry key="py" value="1557" />
+          <entry key="sh" value="1" />
           <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="1556" />
+          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="Python" value="1557" />
         </counts>
       </usages-collector>
     </session>
@@ -56,28 +104,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/pytest_allure_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+            <state relative-caret-position="282">
+              <caret line="89" column="51" lean-forward="true" selection-start-line="89" selection-start-column="51" selection-end-line="89" selection-end-column="51" />
               <folding>
                 <element signature="e#149#162#0" expanded="true" />
-                <marker date="1534659307056" expanded="true" signature="2050:2052" ph="..." />
+                <marker date="1536305597556" expanded="true" signature="2050:2052" ph="..." />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -87,11 +121,6 @@
               <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -112,16 +141,17 @@
       <list>
         <option value="$PROJECT_DIR$/test/features_test.ipynb" />
         <option value="$PROJECT_DIR$/test/features_test.py" />
-        <option value="$PROJECT_DIR$/test/pytest_allure_test.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/test/__init__.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/asm.sh" />
+        <option value="$PROJECT_DIR$/test/pytest_allure_test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="450" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="472" />
     <option name="y" value="23" />
     <option name="width" value="885" />
     <option name="height" value="812" />
@@ -132,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,21 +172,22 @@
             <path>
               <item name="allure_report" type="b2602c69:ProjectViewProjectNode" />
               <item name="allure_report" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allure_report" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allure_report" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
+              <item name="allure-report" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,9 +243,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="450" y="23" width="885" height="812" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2662037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25863284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -226,7 +257,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4722222" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.47710842" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -239,25 +270,29 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/features_test.ipynb" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="187">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#149#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asm.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -268,11 +303,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/pytest_allure_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        <state relative-caret-position="282">
+          <caret line="89" column="51" lean-forward="true" selection-start-line="89" selection-start-column="51" selection-end-line="89" selection-end-column="51" />
           <folding>
             <element signature="e#149#162#0" expanded="true" />
-            <marker date="1534659307056" expanded="true" signature="2050:2052" ph="..." />
+            <marker date="1536305597556" expanded="true" signature="2050:2052" ph="..." />
           </folding>
         </state>
       </provider>
